@@ -1,0 +1,46 @@
+img {
+  object-fit: cover;
+  border-radius:50%;
+  width: 150px;
+  height: 150px;
+}
+
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+.col-space {
+  width: 25rem;
+}
+
+.col-space1 {
+  width: 32rem;
+}
+
+.col-space2 {
+  width: 28.5rem;
+}
+
+.col-space3 {
+  width: 48rem;
+}
+
+.colsp {
+  width: 9.5rem;
+}
